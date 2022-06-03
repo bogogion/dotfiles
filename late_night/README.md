@@ -6,7 +6,6 @@ LATE NIGHT is the first semi-serious rice. It's a primarily black+purple colorsc
 ## Programs used
 - dwm
 - st
-- ly (login manager)
 - slstatus
 - dmenu (unchanged)  
 
@@ -23,8 +22,7 @@ LATE NIGHT is the first semi-serious rice. It's a primarily black+purple colorsc
 ![image 5](https://github.com/bogogion/dotfiles/blob/main/images/late_night_5.png)
 
 ## Notes
-- The fonts are larger than normal as I find it looks better, just change the number of pixels in the dwm & st configs.
-- I orignally had problems getting ly working in the beginning, however it now looks very good and minimalistic. Changing colors in ly is a pain and you are more than welcome to use a different login manager. 
+- The fonts are larger than normal as I find it looks better, just change the number of pixels in the dwm & st configs. 
 
 ## Programs used in screenshots
 - ranger (text based file manager)

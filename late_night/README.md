@@ -1,5 +1,5 @@
 # ***LATE NIGHT***
-
+Finished 6/3/22
 ## Description
 LATE NIGHT is the first semi-serious rice. It's a primarily black+purple colorscheme. The background, style, and colorscheme just really feels like a late-night vibe. 
 
